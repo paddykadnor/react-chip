@@ -1,0 +1,12 @@
+.container
+{
+  width:100%;
+  display: block;
+  border-bottom: 2px solid #ccc;
+}
+
+.chipbox
+{
+  display: inline-block;
+  width:100%;
+}
