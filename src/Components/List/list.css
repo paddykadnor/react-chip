@@ -1,0 +1,24 @@
+.list
+{
+    list-style-type: none;
+    position: relative;
+    top:-15px
+}
+
+.list ul{
+    list-style-type: none;
+    padding: 0;
+    background-color: #ccc;
+    max-width: 400px;
+}
+
+.list li{
+    border-bottom: 1px solid #eee;
+    padding: 10px;
+    color: #fff;
+}
+
+.list li span:nth-child(1){
+margin: 10px;
+}
+

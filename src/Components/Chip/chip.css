@@ -1,0 +1,36 @@
+.chip
+{
+
+    display: block;
+    justify-content: start;
+
+}
+
+label{
+   display: flex;
+}
+
+span{
+    margin: 6px;
+    line-height: 28px;
+}
+p{
+    padding: 0;
+    margin: 6px;
+    display: inline-flex;
+    background-color: #ccc;
+    color: #fff;
+    margin-right: 4px;
+    border-radius: 46px;
+}
+
+button{
+    background: none;
+    border:none;
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    position: relative;
+    top:0px;
+    cursor: pointer;
+}
